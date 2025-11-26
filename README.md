@@ -24,9 +24,9 @@
 [Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)
 
 ## Учебные проекты
-SQL
+SQL  
 [Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
-[Анализ внутриигровых покупок и игроков](https://github.com/AlenaCarp/in_game_purchases)
+[Анализ внутриигровых покупок и игроков](https://github.com/AlenaCarp/in_game_purchases)  
 Дашборды  
 [Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)  
 Python  
