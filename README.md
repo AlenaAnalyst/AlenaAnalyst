@@ -36,7 +36,5 @@ DataLens - Дашборды
   + Стремлюсь к прозрачности, доброжелательности и конструктивному фидбеку
   + Легко выстраиваю диалог с коллегами из разных сфер
 
-<p><img align = "center" src="https://github.com/AlenaAnalyst/AlenaAnalyst/blob/main/assets/2в.png" alt="Альтернативный текст" width="1500" height="120" /></p>
-
 
 
