@@ -8,7 +8,7 @@ Python
 SQL  
 [Анализ внутриигровых покупок и игроков](https://github.com/AlenaCarp/in_game_purchases)  
 [Анализ объявлений о продаже жилой недвижимости](https://github.com/AlenaCarp/Real_Estate_Agency)  
-Дашборды  
+DataLens - Дашборды  
 [Дашборд TED конференций](https://github.com/AlenaCarp/Dashboard_TED_conferences)  
 [Дашборд доставки еды из ресторанов](https://github.com/AlenaAnalyst/All_from_the_cafe/tree/main)  
 
