@@ -1,7 +1,7 @@
 ## Пет-проекты
-[Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)
-[Описание функциональных требований/бизнес-требований(Задача 2) BPMN 2(Задача 1) Описание REST api интерфейса на стороне бэк сервиса(Задача 3)](https://github.com/AlenaAnalyst/Technical-Specification-BA-SA-Analyst)
-[Анализ поисковых запросов Яндекс.Картинок](https://github.com/AlenaAnalyst/Analysis_of_Yandex.Images_search_queries)
+[Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)  
+[Описание функциональных требований/бизнес-требований(Задача 2) BPMN 2(Задача 1) Описание REST api интерфейса на стороне бэк сервиса(Задача 3)](https://github.com/AlenaAnalyst/Technical-Specification-BA-SA-Analyst)  
+[Анализ поисковых запросов Яндекс.Картинок](https://github.com/AlenaAnalyst/Analysis_of_Yandex.Images_search_queries)  
 
 ## Учебные проекты  
 Python  
