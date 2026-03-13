@@ -1,6 +1,12 @@
 ## Пет-проекты
+[Бизнес-анализ нового продукта для инвесторов - презентация приложения для здорового образа жизни "Т-спорт"](https://github.com/AlenaAnalyst/T-sport/blob/main/02.pdf)
+
+[Продуктовая аналитика - Улучшение конверсии в оформление кредитных карт](https://github.com/AlenaAnalyst/Product-analytics)
+
 [Анализ поисковых запросов Яндекс.Картинок](https://github.com/AlenaAnalyst/Analysis_of_Yandex.Images_search_queries)  
+
 [Описание функциональных требований/бизнес-требований(Задача 2) BPMN 2(Задача 1) Описание REST api интерфейса на стороне бэк сервиса(Задача 3)](https://github.com/AlenaAnalyst/Technical-Specification-BA-SA-Analyst)  
+
 [Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)  
 
 
