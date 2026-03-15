@@ -7,7 +7,6 @@
 
 [Описание функциональных требований/бизнес-требований(Задача 2) BPMN 2(Задача 1) Описание REST api интерфейса на стороне бэк сервиса(Задача 3)](https://github.com/AlenaAnalyst/Technical-Specification-BA-SA-Analyst)  
 
-[Зарплаты аналитиков в мире, США и в России](https://github.com/AlenaCarp/Salaries-of-analysts-in-the-world-of-the-USA-and-Russia)  
 
 
 
